@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ANIMALES</title>
+</head>
+<body>
+<table border="1">
+    <tr>
+        <th>FOTO</th>
+        <th>ENLACE</th>
+    </tr>    
+    <tr>
+        <td><img src="imagenes/images.jpeg" width="450"></td>
+        <td><a href="https://es.wikipedia.org/wiki/Pastor_alem%C3%A1n">PASTOR ALEMÁN WIKIPEDIA</a></td>
+    </tr>
+    <tr>
+        <td><img src="imagenes/hasky.jpeg" width="450"></td>
+        <td><a href="https://es.wikipedia.org/wiki/Husky_siberiano">HUSKY SIBERIANO WIKIPEDIA</a></td>
+    </tr>
+    <tr>
+        <td><img src="imagenes/doberman.jpg" width="450"></td>
+        <td><a href="https://es.wikipedia.org/wiki/D%C3%B3berman">DÓBERMAN</a></td>
+    </tr>
+</table>
+</body>
+</html>
